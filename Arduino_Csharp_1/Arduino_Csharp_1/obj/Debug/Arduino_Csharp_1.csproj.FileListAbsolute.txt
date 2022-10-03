@@ -1,0 +1,11 @@
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\bin\Debug\Arduino_Csharp_1.exe.config
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\bin\Debug\Arduino_Csharp_1.exe
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\bin\Debug\Arduino_Csharp_1.pdb
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.csproj.AssemblyReference.cache
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.csproj.SuggestedBindingRedirects.cache
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.Form1.resources
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.Properties.Resources.resources
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.csproj.GenerateResource.cache
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.csproj.CoreCompileInputs.cache
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.exe
+D:\Yazılımcı Klavyesi\Form_App\Arduino_Csharp_1\Arduino_Csharp_1\obj\Debug\Arduino_Csharp_1.pdb
